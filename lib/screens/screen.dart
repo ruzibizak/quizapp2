@@ -9,7 +9,7 @@ class LoginScreen extends StatelessWidget {
   final TextEditingController _passwordController = TextEditingController();
 
   final AuthRepository _authRepository = AuthRepository();
-  final SessionManager _sessionManager = SessionManager(); // Instance of SessionManagers
+  final SessionManager _sessionManager = SessionManager(); // Instance of SessionManagersesss
 
   @override
   Widget build(BuildContext context) {
