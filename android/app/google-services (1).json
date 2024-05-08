@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000604780273",
+    "project_id": "finalmid-78161",
+    "storage_bucket": "finalmid-78161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000604780273:android:db6d530baff0cf5cb90b50",
+        "android_client_info": {
+          "package_name": "com.example.midquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdO8B98NRm-2bAqSC3BkcG_CWwsf2q0mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
